@@ -1,6 +1,6 @@
 sudo apt install -y git
-git clone https://github.com/remput/USB-security.git
-mv USB-security ~/Desktop
+git clone https://github.com/remput/Jack-of-All-Trades.git
+mv Jack-of-All-Trades ~/Desktop
 sudo apt install curl
 curl -L https://xrl.us/installperlnix | bash
 sudo apt install cpanm
@@ -14,7 +14,7 @@ sudo apt-get update
 sudo apt install -y libreoffice
 sudo apt-get install -y keepass2
 sudo apt-get install -y mysql-server mysql-workbench
-sudo apt install -y veracrypt
 sudo apt install zenity
 sudo apt-get install udisks
 sudo apt install hashdeep
+sudo apt-get install encfs
